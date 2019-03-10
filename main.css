@@ -46,3 +46,11 @@ html {
 .Alla {
   font-size: 50px;
 }
+
+.resultSection {
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+}
